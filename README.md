@@ -11,6 +11,7 @@ List the key features of the website.
 - Delete notes
 
 ## Technologies Used
-![HTML](https://github.com/user-attachments/assets/26d7111f-6606-4475-88da-a9c2a5d56b2e)
-![CSS](https://github.com/user-attachments/assets/41cdee50-48ed-4236-a0fa-944b1d7bf7ab)
-![JAVASCRIPT](https://github.com/user-attachments/assets/b67ce6c9-0498-45df-9b76-5353bd6f2a89)
+
+- HTML
+- CSS
+- JAVASCRIPT
