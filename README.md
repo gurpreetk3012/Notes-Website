@@ -1,7 +1,7 @@
 # Notes Website
 
 ## Introduction
-Notes is a simple yet powerful note-taking application designed to help users efficiently manage their notes. Leveraging the capabilities of browser storage, this application allows users to easily create, edit, update, and delete their notes without the need for an external server. With a user-friendly interface and seamless performance, the Notes Application provides a convenient solution for organizing thoughts, ideas, and tasks on the go. Whether you need to jot down quick reminders or keep track of detailed information, this app is tailored to meet your note-taking needs.
+The Notes Website is a simple, user-friendly platform that allows users to create, edit, update, and delete notes directly in their web browser. Designed for easy access and quick note-taking, the website leverages browser storage to save user-generated notes securely without requiring an internet connection or external database. This tool provides an efficient way to manage thoughts, tasks, and reminders in an organized and accessible format.
 
 ## Features
 List the key features of the website.
