@@ -12,6 +12,6 @@ List the key features of the website.
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JAVASCRIPT
+<img src="https://github.com/user-attachments/assets/03623335-07df-4810-8683-97a05b8c3333" alt="HTML Logo" height="40">
+<img src="https://github.com/user-attachments/assets/f6bf442f-7f5c-4b1d-aeb0-5ade67f2fe61" alt="CSS Logo" height="40">
+<img src="https://github.com/user-attachments/assets/5430f8e7-2afc-45e4-aee9-802ffb6ad7bd" alt="CSS Logo" height="40">
